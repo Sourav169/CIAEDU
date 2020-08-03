@@ -1,0 +1,15 @@
+
+    .root{
+      flex-Grow: 1;
+      
+    }
+    .MuiAppBar-root{
+        background-color: green;
+    }
+    .MuiAppBar-colorPrimary{
+      background-color: green;
+    }
+    .menuButton{
+      margin-Right: 10;
+    }
+    

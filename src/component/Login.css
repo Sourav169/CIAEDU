@@ -1,0 +1,17 @@
+
+    .root {
+      min-Width: 275;
+      min-height:600
+    }
+    .bullet {
+      display: 'inline-block';
+      margin: '0 5px';
+      transform: 'scale(0.8)'
+    }
+    .title {
+      font-Size: 14;
+    }
+    .pos {
+      margin-Bottom: 12;
+    }
+  
